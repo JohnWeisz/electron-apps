@@ -2,3 +2,14 @@ name: AudioNodes
 description: 'HTML/JS/CSS Terminal'
 website: 'https://audionodes.com'
 category: 'Productivity'
+keywords:
+    - 'digital audio workstation'
+    - music
+    - production
+    - design
+    - productivity
+screenshots:
+  -
+    imageUrl: 'https://audionodes.com/screenshot.png'
+    caption: 'AudioNodes in action'
+    imageLink: 'https://audionodes.com'
